@@ -19,4 +19,4 @@ The application will appear like this when deployed:
   ## Deployment
   
   The following link will take your to the deployed site:
-  
+  https://jennanoel.github.io/password-generator/
